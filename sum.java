@@ -5,4 +5,4 @@ class Simple{
         c=a+b;
      System.out.println("Hello Java %c");  
     }  
-}  
+}  }
